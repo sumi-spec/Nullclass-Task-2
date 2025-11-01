@@ -1,0 +1,14 @@
+Example 1: {
+    'base_price': 1000000,
+    'region': 'hilly',
+    'season': 'autumn',
+    'car_type': 'SUV',
+    'recommended_price': 1089000.0
+}
+Example 2: {
+    'base_price': 700000,
+    'region': 'metro',
+    'season': 'autumn',
+    'car_type': 'hatchback',
+    'recommended_price': 671079.0
+}
